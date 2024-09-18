@@ -37,10 +37,4 @@ CREATE TABLE tasks (
 DROP TABLE tasks;
 
 -- 9
-DROP DATABASE lab1;
-
-
-
-
-
-select * from users;
+DROP DATABASE "LAB 1";
